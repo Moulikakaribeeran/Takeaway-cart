@@ -1,0 +1,51 @@
+body{
+    background: url('./T1.jpg');
+    
+    background-repeat: no-repeat;
+		
+}
+
+.login{
+	padding: 50px;
+	width: 350px;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	position: absolute;
+}
+
+.login p{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+	
+	width: 75px;
+
+}
+.login input{
+	border: 0;
+	border-radius: 5px;
+	padding: 12px 9px;
+	width: 100%;
+	
+
+}
+
+.login h1
+{
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	background: skyblue;
+	width: 250px;
+}
+
+.login button
+{
+	font-weight: bold;
+	font-size: 18px;
+	margin: 20px 0;
+	padding:10px 20px;
+	background-color: gray;
+
+}
